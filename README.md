@@ -1,5 +1,5 @@
 
-## STL-Inspector - Intro
+## stl-inspector - Intro
 
 Easy-to-use web application that allows the user to open stl files and inspect them easily
 
